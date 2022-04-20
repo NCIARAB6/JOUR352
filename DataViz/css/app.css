@@ -1,0 +1,114 @@
+.button, .button.disabled, .button[disabled], .button.disabled:hover, .button[disabled]:hover, .button.disabled:focus, .button[disabled]:focus {
+    background-color: #white;}
+
+.mainHeader {
+  background-color:black;
+  padding: 50px 0 50px 0;
+  margin-bottom:20px;
+}
+
+h1 {
+  margin: 100px;
+  font-weight: 700;
+  color: black;
+  text-align: left;
+}
+
+h2 {
+  margin: 100px;
+  color: #f4f4f4;
+  text-align: center;
+}
+
+h3 {
+  margin: 100px;
+  font-weight: 700;
+}
+
+.sidebar {
+  background-color:#f3f3f3;
+}
+
+.calloutStyle {
+background-color: #3333;
+color: #fff;
+font-size: .25;
+padding: 10px;
+}
+
+p{
+  margin-bottom: 25px;
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.bigImage {
+  padding: 2px;
+  border: solid 1px #999;
+  margin: 2px 0 2px 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.disclaimer {
+  background-color: red;
+  color: #fff;
+  text-align: center;}
+
+.video {
+  padding: 2px;
+  border: solid 1px #999;
+  margin: 2px 0 2px 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 100%;}
+
+.bigImage2
+{padding: 2px;
+  border: solid 1px #999;
+  margin: 2px 0 2px 0;
+  display: block;
+  float: right;
+  width: 50%;}
+
+    .callout {
+  position: relative;
+  margin: 0 0 1rem 0;
+  padding: 1rem;
+  border: 1px solid rgba(10, 10, 10, 0.25);
+  border-radius: 0;
+  background-color: white;
+  color: #0a0a0a; }
+  .callout > :first-child {
+    margin-top: 0; }
+  .callout > :last-child {
+    margin-bottom: 0; }
+  .callout.primary {
+    background-color: #d7ecfa;
+    color: #0a0a0a; }
+  .callout.secondary {
+    background-color: #eaeaea;
+    color: #0a0a0a; }
+  .callout.success {
+    background-color: #e1faea;
+    color: #0a0a0a; }
+  .callout.warning {
+    background-color: #fff3d9;
+    color: #0a0a0a; }
+  .callout.alert {
+    background-color: #f7e4e1;
+    color: #0a0a0a; }
+  .callout.small {
+    padding-top: 0.5rem;
+    padding-right: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.5rem; }
+  .callout.large {
+    padding-top: 3rem;
+    padding-right: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 3rem; }
